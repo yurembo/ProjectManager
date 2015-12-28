@@ -11,3 +11,5 @@ After that Project Manager creates a simple game for you with scene, scenewindow
 Also Project Manager can create a Torsion project for your game.
 
 You can use Project Manager to begin developing your own games with Torque 2D.
+
+I developed a Progect Manager using C#.
