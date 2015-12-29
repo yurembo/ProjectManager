@@ -12,4 +12,6 @@ Also Project Manager can create a Torsion project for your game.
 
 You can use Project Manager to begin developing your own games with Torque 2D.
 
-I developed a Progect Manager using C#.
+I developed a Project Manager using C#.
+
+Read my article about Project Manager: http://yazevsoft.blogspot.ru/2015/12/torque-2-d-yurembo-sandbox-torque-2-d.html
