@@ -7,3 +7,12 @@ C:\Users\Yuriy Yazev\Documents\Visual Studio 2013\Projects\ProjectManager\Projec
 C:\Users\Yuriy Yazev\Documents\Visual Studio 2013\Projects\ProjectManager\ProjectManager\obj\Release\ProjectManager.csproj.GenerateResource.Cache
 C:\Users\Yuriy Yazev\Documents\Visual Studio 2013\Projects\ProjectManager\ProjectManager\obj\Release\ProjectManager.exe
 C:\Users\Yuriy Yazev\Documents\Visual Studio 2013\Projects\ProjectManager\ProjectManager\obj\Release\ProjectManager.pdb
+C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\bin\Release\ProjectManager.exe.config
+C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Release\ProjectManager.exe
+C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Release\ProjectManager.pdb
+C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\bin\Release\ProjectManager.exe
+C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\bin\Release\ProjectManager.pdb
+C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Release\ProjectManager.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Release\ProjectManager.ManForm.resources
+C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Release\ProjectManager.Properties.Resources.resources
+C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Release\ProjectManager.csproj.GenerateResource.Cache

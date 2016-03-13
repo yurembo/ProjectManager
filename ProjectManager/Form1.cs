@@ -83,6 +83,7 @@ namespace ProjectManager
                 notExistFile(Constants.openALName);
                 return false;
             }
+            /* deprecated in Torque 2D 3.3 [13.03.2016]
             if (File.Exists(rootDir + Constants.uniName))
             {
                 File.Copy(rootDir + Constants.uniName, projDir + Constants.uniName, true);
@@ -92,6 +93,7 @@ namespace ProjectManager
                 notExistFile(Constants.uniName);
                 return false;
             }
+            */
             if (File.Exists(rootDir + Constants.script_main))
             {
                 File.Copy(rootDir + Constants.script_main, projDir + Constants.script_main, true);
