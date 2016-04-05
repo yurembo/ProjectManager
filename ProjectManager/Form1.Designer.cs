@@ -187,7 +187,7 @@
             this.MinimizeBox = false;
             this.Name = "ManForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Project Manager for Torque 2D v3.2 by yurembo";
+            this.Text = "Project Manager for Torque 2D by yurembo";
             this.Load += new System.EventHandler(this.ManForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
