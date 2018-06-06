@@ -26,9 +26,12 @@ namespace ProjectManager
         private void buttonCreateProject_Click(object sender, EventArgs e)
         {
             labelTotal.Visible = false;
-            projDir = projectHomeDialog.SelectedPath;
+            projDir = textHomeFolder.Text;
             rootDir = textRootFolder.Text + '\\';
-            projDir += '\\' + textProjectName.Text + '\\';
+            if (projDir.Substring(projDir.Length-1) == "\\")
+                projDir += textProjectName.Text + '\\';
+            else
+                projDir += '\\' + textProjectName.Text + '\\';
             projName = textProjectName.Text;
             if (rootDir != "" && projDir != "" && projName != "")
             {
@@ -39,18 +42,15 @@ namespace ProjectManager
 
         private void createT2DProject()
         {
-            if (Directory.Exists(projDir))
-            {
-                MessageBox.Show("Directory exists");
-            }
+            if (!Directory.Exists(projDir))
+                Directory.CreateDirectory(projDir);        
             else
-            {
-                Directory.CreateDirectory(projDir);
-                labelTotal.Text = "Project " + projDir + " was created";
-                Directory.SetCurrentDirectory(projDir);
-                if (copyFiles())
-                    labelTotal.Visible = true;
-            }
+                MessageBox.Show("Directory exists");
+
+            labelTotal.Text = "Project " + projDir + " was created";
+            Directory.SetCurrentDirectory(projDir);
+            if (copyFiles())
+                labelTotal.Visible = true;
         }
 
         private bool copyFiles()
@@ -72,7 +72,7 @@ namespace ProjectManager
             else
             {
                 notExistFile(Constants.leapName);
-                return false;
+                //return false;
             }
             if (File.Exists(rootDir + Constants.openALName))
             {
@@ -83,7 +83,6 @@ namespace ProjectManager
                 notExistFile(Constants.openALName);
                 return false;
             }
-            /* deprecated in Torque 2D 3.3 [13.03.2016]
             if (File.Exists(rootDir + Constants.uniName))
             {
                 File.Copy(rootDir + Constants.uniName, projDir + Constants.uniName, true);
@@ -91,9 +90,8 @@ namespace ProjectManager
             else
             {
                 notExistFile(Constants.uniName);
-                return false;
+                //return false;
             }
-            */
             if (File.Exists(rootDir + Constants.script_main))
             {
                 File.Copy(rootDir + Constants.script_main, projDir + Constants.script_main, true);

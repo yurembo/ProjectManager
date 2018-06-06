@@ -16,3 +16,11 @@ C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Release\
 C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Release\ProjectManager.ManForm.resources
 C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Release\ProjectManager.Properties.Resources.resources
 C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Release\ProjectManager.csproj.GenerateResource.Cache
+C:\Users\yazev\Documents\GitHub\ProjectManager\ProjectManager\bin\Release\ProjectManager.exe.config
+C:\Users\yazev\Documents\GitHub\ProjectManager\ProjectManager\bin\Release\ProjectManager.exe
+C:\Users\yazev\Documents\GitHub\ProjectManager\ProjectManager\bin\Release\ProjectManager.pdb
+C:\Users\yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Release\ProjectManager.ManForm.resources
+C:\Users\yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Release\ProjectManager.Properties.Resources.resources
+C:\Users\yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Release\ProjectManager.csproj.GenerateResource.Cache
+C:\Users\yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Release\ProjectManager.exe
+C:\Users\yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Release\ProjectManager.pdb

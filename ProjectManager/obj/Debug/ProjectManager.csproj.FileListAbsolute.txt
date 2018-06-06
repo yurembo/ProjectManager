@@ -16,3 +16,11 @@ C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Debug\Pr
 C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Debug\ProjectManager.ManForm.resources
 C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
 C:\Users\Yuriy Yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.Cache
+C:\Users\yazev\Documents\GitHub\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe.config
+C:\Users\yazev\Documents\GitHub\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe
+C:\Users\yazev\Documents\GitHub\ProjectManager\ProjectManager\bin\Debug\ProjectManager.pdb
+C:\Users\yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Debug\ProjectManager.ManForm.resources
+C:\Users\yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
+C:\Users\yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.Cache
+C:\Users\yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Debug\ProjectManager.exe
+C:\Users\yazev\Documents\GitHub\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
